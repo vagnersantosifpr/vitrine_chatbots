@@ -158,7 +158,12 @@
         "descricao": "Chatbot responde suas dúvidas sobre os conteúdos de física",
         "link": "https://chatbot-tawny-ten-91.vercel.app/"
       }
-    
+    ,
+      {
+        "nome": "TopizioBot",
+        "descricao": "TopizioBot",
+        "link": "https://topiziochatbot.netlify.app/"
+      }
     ]
   }
 }
