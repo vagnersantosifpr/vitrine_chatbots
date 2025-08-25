@@ -164,6 +164,25 @@
         "descricao": "TopizioBot",
         "link": "https://topiziochatbot.netlify.app/"
       }
+      ,
+      {
+        "nome": "Chocobot",
+        "descricao": "ChocoBot é um chatbot especializado em responder dúvidas sobre chocolate e culinária chocolatuda. Ele ajuda com receitas, técnicas, tipos de chocolate, combinações e tudo o que envolve o mundo do chocolate — de trufas a brownies!",
+        "link": "https://chocobot-backend.onrender.com/"
+      }
+      ,
+      {
+        "nome": "Chatbot de Autocuidado",
+        "descricao": "Chatbot que promove um espaço seguro para seu bem-estar, facilitando a organização de seus pensamentos e emoções através da conversa e dicas",
+        "link": "https://chatbot-murex-nine.vercel.app"
+      }
+      ,
+      {
+        "nome": "Assistente de Biologia",
+        "descricao": "Seu companheiro inteligente para dúvidas e aprendizado! <br> O Assistente Gemini IFPR é um chatbot criado para apoiar alunos e professores do IFPR, respondendo dúvidas, auxiliando no aprendizado e explorando temas de tecnologia e inteligência artificial. Utiliza a API Gemini do Google para fornecer respostas inteligentes e pode ser expandido com novas funções, como Function Calling. <br> Ideal para quem busca agilidade, praticidade e inovação no dia a dia acadêmico!",
+        "link": "https://chatbot-com-google-ai-studio.vercel.app/"
+      }
+      
     ]
   }
 }
