@@ -194,6 +194,12 @@
         "descricao": "Mega Chef da Computaria é um assistente culinário virtual dedicado a guiar os usuários pelo universo da culinária. Ele oferece suporte abrangente, desde receitas simples até pratos elaborados, adaptando-se a diferentes ocasiões. Ele também fornece informações valiosas sobre ingredientes, incluindo dicas para escolher os melhores e sugestões de substituições. Além disso, Mega Chef da Computaria desmistifica técnicas culinárias complexas, tornando-as acessíveis a todos. Ele considera restrições alimentares, adaptando receitas para atender às necessidades e preferências individuais. Para aprimorar a experiência gastronômica, ele sugere harmonizações de bebidas e acompanhamentos. Por fim, Mega Chef da Computaria compartilha truques e dicas de cozinha para facilitar o dia a dia e impressionar os convidados.",
         "link": "https://megachefcomputaria.vercel.app/"
       }
+      ,
+      {
+        "nome": "Seu Assistente Futebolístico",
+        "descricao": "Seu Assistente Futebolístico.",
+        "link": "https://chatbot-site-verdade-verdadeiro.vercel.app/?authuser=0"
+      }
     ]
   }
 }
