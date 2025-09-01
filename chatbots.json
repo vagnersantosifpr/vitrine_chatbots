@@ -200,6 +200,12 @@
         "descricao": "Seu Assistente Futebolístico.",
         "link": "https://chatbot-site-verdade-verdadeiro.vercel.app/?authuser=0"
       }
+      ,
+      {
+        "nome": "Dio-sama",
+        "descricao": "Um projeto feito pelas lágrimas de Rhuam7282, junto com o poder do Deepseek e Manus IA",
+        "link": "https://diomini.netlify.app/"
+      }
     ]
   }
 }
