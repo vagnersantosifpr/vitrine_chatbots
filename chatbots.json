@@ -144,7 +144,7 @@
       {
         "nome": "Musashi Miyamoto",
         "descricao": "Chatbot com uma personalidade de um mestre samurai, com ensinamentos, e linguagem",
-        "link": "https://github.com/Carlos1dev017/chatbot"
+        "link": "https://musashi-bot-backend.onrender.com/"
       }
       ,
       {
@@ -156,7 +156,7 @@
       {
         "nome": "Bot de Física",
         "descricao": "Chatbot responde suas dúvidas sobre os conteúdos de física",
-        "link": "https://chatbot-p98m.onrender.com/"
+        "link": "https://chatbot-tawny-ten-91.vercel.app/"
       }
     ,
       {
@@ -168,7 +168,7 @@
       {
         "nome": "Chocobot",
         "descricao": "ChocoBot é um chatbot especializado em responder dúvidas sobre chocolate e culinária chocolatuda. Ele ajuda com receitas, técnicas, tipos de chocolate, combinações e tudo o que envolve o mundo do chocolate — de trufas a brownies!",
-        "link": "https://chocobot-backend.onrender.com/"
+        "link": "https://chocobotsemfronteiras.onrender.com/"
       }
       ,
       {
@@ -192,7 +192,7 @@
       {
         "nome": "Mega Chef da Computaria",
         "descricao": "Mega Chef da Computaria é um assistente culinário virtual dedicado a guiar os usuários pelo universo da culinária. Ele oferece suporte abrangente, desde receitas simples até pratos elaborados, adaptando-se a diferentes ocasiões. Ele também fornece informações valiosas sobre ingredientes, incluindo dicas para escolher os melhores e sugestões de substituições. Além disso, Mega Chef da Computaria desmistifica técnicas culinárias complexas, tornando-as acessíveis a todos. Ele considera restrições alimentares, adaptando receitas para atender às necessidades e preferências individuais. Para aprimorar a experiência gastronômica, ele sugere harmonizações de bebidas e acompanhamentos. Por fim, Mega Chef da Computaria compartilha truques e dicas de cozinha para facilitar o dia a dia e impressionar os convidados.",
-        "link": "https://chstbot-kk.onrender.com/"
+        "link": "https://megachefcomputaria.vercel.app/"
       }
     ]
   }
